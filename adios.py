@@ -1,7 +1,5 @@
-#!/usr/bin/env python3
 def adios():
-    """Print a farewell message."""
-    print("adiosito")
-
+print("adiosito")
 if __name__ == "__main__":
-    adios()
+adios()
+    
